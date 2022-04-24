@@ -1,33 +1,30 @@
-# Title
+# Microsoft Movie Analysis
 
-**Authors**: Student1, Student2
+**Authors**: Chris Freyre
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+The business problem is that Microsoft want to create a new movie studio. They need recommendations, so they can choose the right type of films. 
+
+For this project I have decided to use the following data sets: Imdb.title.basics, Imdb.title.ratings, bom.movie_gross. In these data sets, each one has a common data point so I merged them together to provide a more clean and complete data set. Through analysis of this data, I've created 3 business recommendations in relation to movie studios: The top 5 movie studios. The movie genres with the highest domestic gross and Movie genres with the highest ratings. 
+
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft are unaware of what type of move to create in their new movie studio. For this we need to ask ourselves the best way to apporoach this project, would be with 3 different points of view, which are 1) top movies studios, 2) top genres and 3) top ratings. 
 
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
+With question one we will be pointed in the right direction following a succesful company proven to perform not only well but also to have proven facts with domestic gross total over the other movie studios. Question two will join our answer from question one because not only movie studios are performing well, they will have a pattern of genres in their movie top sellers. Finally question three will join in with the same pattern but from the viewers perspective voting for the type of movies that they love that would be correlated with the top movies in the market.
+
+I will create solutions from the data set provided, having 3 different points of view. Business perspective from the data of other movie studios performance with their own domestic gross, then match that result to the top genre movies from the other data sets and combine them with the perspective of the viewers through the top rated movies. 
+
+
+Microsoft has this data but all separated or messy data, so it makes it hard to read, that's why I not only joined 3 datasets together, before merging them I cleaned them all, for a better performance now and for the future.
+
 
 ## Data
 
 Describe the data being used for this project.
-
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
+We got a dataset with domestic gross that would soulve our question number one, then we move into movie titles because has all the data from the movies genres, names, etc that would complemente our answer about top genres and combine with last dataset f ratings top genres, top movies, top movie studios are all link
 
 ## Methods
 
