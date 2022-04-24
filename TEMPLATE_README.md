@@ -52,7 +52,7 @@ My analysis is only based on domestic gross, which can be slightly limiting. So 
 
 ## For More Information
 
-Please review my full analysis in my Jupyter notebooks - (./main_data.ipynb), (./1st_Recommendation.ipynb), (./2nd_recommendation.ipynb), (./3rd_recommendation.ipynb) or my presentation, (./microsoft_movie_analysis_chrisf.pdf).
+Please review my full analysis in my Jupyter notebooks or my presentation as detailed below.
 
 For any additional questions, please contact me.
 
